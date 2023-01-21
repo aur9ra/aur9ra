@@ -1,4 +1,4 @@
-## Hi, I'm Aurora, a Computer Science student at the University of California, Santa Cruz.
+## aurora
 
 
 <!---
